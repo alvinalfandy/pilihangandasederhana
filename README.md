@@ -1,4 +1,4 @@
-#script python pilihan ganda sederhana
+# script python pilihan ganda sederhana
 
 
 ## dekripsi
