@@ -1,5 +1,6 @@
 # script python pilihan ganda sederhana
-
+## my website
+https://alfandy.tech
 
 ## dekripsi
 ini adalah script python pilihan ganda sederhana, 
